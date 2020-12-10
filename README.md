@@ -50,7 +50,7 @@ To ensure the smart contract was correctly deployed, while on the same tab as ab
 
 # Output
 
-Still utilizing the same tab as above, under `Deployed Contracts` select your deployed contract and click `helloWorld` this will call the `helloWorld` function within you `helloWorld.sol` smart contract.
+Still utilizing the same tab as above, under `Deployed Contracts` select your deployed contract and click `helloWorld` this will call the `helloWorld` function within your `helloWorld.sol` smart contract.
 
 To view the results select the dropdown provided after clicking `helloWorld`
 
